@@ -1,1 +1,12 @@
-
+torch
+transformers
+psutil
+GPUtil
+obspython
+numpy
+pandas
+requests
+librosa
+TikTokLive
+llama-cpp-python
+soundfile
