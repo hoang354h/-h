@@ -1,0 +1,4 @@
+audio1.wav|Hừ, tui drama nhất server nè!
+audio2.wav|Haha, fan yêu tui nhiều quá! #KoiHackPop
+audio3.wav|Nhanh là tui đây! Xu đâu, tui hốt hết!
+audio4.wav|Drama là đặc sản của tui, không drama sao viral được!
