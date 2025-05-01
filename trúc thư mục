@@ -1,0 +1,46 @@
+D:\KoiHackBop
+├── config
+│   └── finetune_config.json
+├── dataset
+│   ├── sentiment_data
+│   │   └── train.json
+│   ├── koihackpop_data
+│   │   ├── train.json
+│   │   ├── history.json
+│   │   └── transcript.txt
+│   ├── vits
+│   │   └── vivos_custom
+│   │       ├── audio1.wav
+│   │       ├── audio2.wav
+│   │       ├── audio3.wav
+│   │       ├── audio4.wav
+│   │       └── transcript.txt
+│   ├── minigame_score.json
+│   └── phogpt-4b-chat-q4_k_m.gguf
+├── output
+│   ├── interaction_history.json
+│   ├── unknown_comments.json
+│   └── score.html
+├── src
+│   ├── main.py
+│   ├── koihackpop.py
+│   ├── sentiment.py
+│   ├── vits.py
+│   ├── vtube.py
+│   ├── sentiment_viz.py
+│   ├── minigame.py
+│   ├── model_manager.py
+│   ├── collect_comments.py
+│   ├── download_vivos.py
+│   ├── update_vits_dataset.py
+│   ├── update_trendy.py
+│   ├── split_dataset.py
+│   ├── finetune_vits_auto.py
+│   ├── finetune_phobert_auto.py
+│   ├── close_obs.py
+│   ├── setup_obs.py
+│   ├── check_hardware.py
+│   ├── automate_pipeline.py
+│   └── sentiment_viz.js
+├── requirements.txt
+└── README.md
