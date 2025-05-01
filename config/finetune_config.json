@@ -1,0 +1,6 @@
+{
+  "vits_batch_size": 1,
+  "phobert_batch_size": 1,
+  "phobert_grad_acc_steps": 8,
+  "phogpt_batch_size": 1
+}
